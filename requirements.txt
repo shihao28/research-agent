@@ -1,0 +1,10 @@
+fastapi
+google-search-results
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+langgraph
+pandas
+python-dotenv
+uvicorn
