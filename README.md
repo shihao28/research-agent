@@ -19,10 +19,10 @@ Note: the query statistics tool is a dummy function implementation.
 
 
 ## Build docker image <br>
-```docker build -t synapxe .```
+```docker build -t research-assistant .```
 
 ## Run docker container to host FastAPI endpoint <br>
-```docker run --rm --env-file .env -p 8000:8000 synapxe:latest```
+```docker run --rm --env-file .env -p 8000:8000 research-assistant:latest```
 
 ## API Call
 ```

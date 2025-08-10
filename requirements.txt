@@ -5,6 +5,7 @@ langchain-openai
 langchain-community
 langchain-experimental
 langgraph
+matplotlib
 pandas
 python-dotenv
 uvicorn
